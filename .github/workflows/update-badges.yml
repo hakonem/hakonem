@@ -1,8 +1,17 @@
-  name: Badges - Readme
-  # You may pin to the exact commit or the version.
-  # uses: pemtajo/badge-readme@3836d7866ca0765b3b4ff8f0f826037657a5f434
-  uses: pemtajo/badge-readme@2.3.0
-  with:
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@2.3.0
+        with:
     # GitHub access token with Repo scope
     GH_TOKEN: # default is ${{ github.token }}
     # Your GitHub repository
