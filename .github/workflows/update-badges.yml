@@ -11,4 +11,4 @@ jobs:
         uses: pemtajo/badge-readme@2.3.0
         with:
     # User name used in Credly
-    CREDLY_USER: Emma Louise Håkonsen
+    CREDLY_USER: emma-louise-hakonsen
