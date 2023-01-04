@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,matlab,mysql,js,jquery,html,css,)](https://skillicons.dev)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
