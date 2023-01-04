@@ -1,4 +1,4 @@
-- name: Badges - Readme
+  name: Badges - Readme
   # You may pin to the exact commit or the version.
   # uses: pemtajo/badge-readme@3836d7866ca0765b3b4ff8f0f826037657a5f434
   uses: pemtajo/badge-readme@2.3.0
