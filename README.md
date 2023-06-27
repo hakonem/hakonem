@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m in my second year of study on the BSc Software Engineering programme at OsloMet 
-- :jigsaw: I plan to specialise in data science/AI in my third year
+- 🌱 I’m in my final year of study on the BSc Software Engineering programme at OsloMet 
+- :jigsaw: Third year specialisations: Introduction to Data Science with Scripting / Applied AI and Data Science project
 - 📫 How to reach me: emma.hakonsen@gmail.com 
 
 #### Skills
