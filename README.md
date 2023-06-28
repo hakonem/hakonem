@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:badges-->
 
+[![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/188f4c7f-c96a-45cb-8612-ddfbc7d879fc "Data Science Foundations - Level 1")
 [![Statistics 101](https://images.credly.com/size/110x110/images/49211314-919e-4207-885a-7d2ff76ddb07/Statistics_101_-_CC.png)](http://www.credly.com/badges/94feee1c-3856-4ccb-b5f5-e2bcb4ca790f "Statistics 101")
 [![Applied Data Science with Python - Level 2](https://images.credly.com/size/110x110/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png)](http://www.credly.com/badges/566583ce-f057-4c69-ae47-efe39a782a5c "Applied Data Science with Python - Level 2")
 [![Data Visualization Using Python](https://images.credly.com/size/110x110/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](http://www.credly.com/badges/ba26b214-3665-42db-bc58-791d5fa7e4d8 "Data Visualization Using Python")
