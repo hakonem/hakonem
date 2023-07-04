@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:badges-->
 
+[![Data Science Foundations - Level 2 (V2)](https://images.credly.com/size/110x110/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png)](http://www.credly.com/badges/e6aca297-c404-4d9f-8fa0-f05a2e6b7f30 "Data Science Foundations - Level 2 (V2)")
+[![Data Science Methodologies](https://images.credly.com/size/110x110/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png)](http://www.credly.com/badges/cfa5fd2f-14a5-459d-ade0-d983b21062f0 "Data Science Methodologies")
+[![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/3dc2f061-a5de-4976-b5c2-f39cc3cea4fd "Data Science Tools")
 [![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/188f4c7f-c96a-45cb-8612-ddfbc7d879fc "Data Science Foundations - Level 1")
 [![Statistics 101](https://images.credly.com/size/110x110/images/49211314-919e-4207-885a-7d2ff76ddb07/Statistics_101_-_CC.png)](http://www.credly.com/badges/94feee1c-3856-4ccb-b5f5-e2bcb4ca790f "Statistics 101")
 [![Applied Data Science with Python - Level 2](https://images.credly.com/size/110x110/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png)](http://www.credly.com/badges/566583ce-f057-4c69-ae47-efe39a782a5c "Applied Data Science with Python - Level 2")
