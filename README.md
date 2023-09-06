@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:badges-->
 
+[![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/75acb437-7ee7-4ede-a4a9-4deb7d747ec2 "Introduction to Data Science")
 [![Data Science Foundations - Level 2 (V2)](https://images.credly.com/size/110x110/images/d7321425-c989-4bf9-846a-cd2a647d213b/Data_Sci_Foundations_Level_2_-_CC_-_2019.png)](http://www.credly.com/badges/e6aca297-c404-4d9f-8fa0-f05a2e6b7f30 "Data Science Foundations - Level 2 (V2)")
 [![Data Science Methodologies](https://images.credly.com/size/110x110/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png)](http://www.credly.com/badges/cfa5fd2f-14a5-459d-ade0-d983b21062f0 "Data Science Methodologies")
 [![Data Science Tools](https://images.credly.com/size/110x110/images/de9471ce-018c-4bf4-af49-5c9c1d488613/Data_Science_Tools.png)](http://www.credly.com/badges/3dc2f061-a5de-4976-b5c2-f39cc3cea4fd "Data Science Tools")
