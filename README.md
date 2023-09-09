@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m in my final year of study on the BSc Software Engineering programme at OsloMet 
 - :jigsaw: Third year specialisations: Introduction to Data Science with Scripting / Introduction to AI
+- :dart: Bachelor project TBC!
 - 📫 How to reach me: emma.hakonsen@gmail.com 
 
 #### Skills
