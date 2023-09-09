@@ -13,3 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@2.3.0
         with:
           CREDLY_USER: emma-louise-hakonsen
+          BADGE_SIZE: 70x70
