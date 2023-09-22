@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: emma.hakonsen@gmail.com 
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,matlab,mysql,js,jquery,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,matlab,mysql,html,css,)](https://skillicons.dev)
 
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/hakonem)
 
