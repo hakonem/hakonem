@@ -2,7 +2,7 @@ name: Kaggle Badges
 
 on:
   schedule:
-    - cron: "2 10 * * *" # 00:00 AM on the 1st of every month
+    - cron: "0 10 * * *" 
   workflow_dispatch:
   push:
     branches:
