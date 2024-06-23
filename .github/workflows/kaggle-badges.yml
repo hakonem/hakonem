@@ -27,7 +27,7 @@ jobs:
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v0.1.0
         with:
-          user_name: { hakonem }
+          user_name: "hakonem"
        
       - name: Commit and Push SVG files
         run: |
