@@ -10,6 +10,11 @@
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=python,java,matlab,mysql,html,css,figma,sqlite,sklearn,tensorflow)](https://skillicons.dev)
 
+![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
+![](./kaggle-badges/NotebooksRank/plastic-black.svg)
+![](./kaggle-badges/DatasetsRank/plastic-black.svg)
+![](./kaggle-badges/DiscussionsRank/plastic-black.svg)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
