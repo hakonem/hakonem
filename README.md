@@ -2,28 +2,13 @@
 
 #### About me
 
-<!--
-**hakonem/hakonem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m in my final year of study on the BSc Software Engineering programme at OsloMet 
+- 🎓 Graduate of the BSc Software Engineering programme at OsloMet
+- 🌱 Working towards a career in data engineering
 - 📫 How to reach me: emma.hakonsen@gmail.com 
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=python,java,matlab,mysql,html,css,)](https://skillicons.dev)
 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/hakonem)
 
 <!--START_SECTION:badges-->
 
