@@ -3,8 +3,7 @@
 #### About me
 
 - :mortar_board: I graduated in 2024 with a BSc in Software Engineering from OsloMet
-- :dart: Working towards a career in data engineering
-- :seedling: Currently studying towards Azure Data Fundamentals DP-900
+- :dart: Working towards a career in data science
 - :mailbox: How to reach me: emma.hakonsen@gmail.com 
 
 #### Skills
